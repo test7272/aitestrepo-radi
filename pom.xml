@@ -43,7 +43,7 @@
     <dependency><groupId>org.apache.thrift</groupId><artifactId>libthrift</artifactId><version>1.0.0</version></dependency>
     <dependency><groupId>org.apache.logging.log4j</groupId><artifactId>log4j-api</artifactId><version>1.0.0</version></dependency>
     <dependency><groupId>org.apache.kafka</groupId><artifactId>kafka-clients</artifactId><version>1.0.0</version></dependency>
-    <dependency><groupId>org.springframework</groupId><artifactId>spring-core</artifactId><version>1.0.0</version></dependency>
+    <dependency><groupId>org.springframework</groupId><artifactId>spring-core</artifactId><version>7.0.8</version></dependency>
     <dependency><groupId>io.netty</groupId><artifactId>netty-all</artifactId><version>4.2.17.Final</version></dependency>
     <dependency><groupId>org.springframework.security</groupId><artifactId>spring-security-core</artifactId><version>1.0.0</version></dependency>
     <dependency><groupId>io.reactivex.rxjava3</groupId><artifactId>rxjava</artifactId><version>1.0.0</version></dependency>
