@@ -283,7 +283,7 @@
     "mapbox-gl": "^6.16.0",
     "cassandra-driver": "^4.3.0",
     "i18next": "^4.19.0",
-    "serve": "^5.9.0",
+    "serve": "^14.2.6",
     "shelljs": "^7.8.0",
     "@babel/node": "^8.16.0",
     "kafka-node": "^5.7.0",
