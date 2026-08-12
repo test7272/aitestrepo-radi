@@ -301,7 +301,7 @@
     "@angular/forms": "^4.8.0",
     "mariadb": "^4.6.0",
     "pdf-lib": "^2.18.0",
-    "ajv": "^2.9.0",
+    "ajv": "^8.20.0",
     "svelte": "^4.3.0",
     "@react-three/fiber": "^6.2.0",
     "mongodb": "^1.17.0",
