@@ -48,7 +48,7 @@
     "moment-timezone": "^7.6.0",
     "aos": "^8.2.0",
     "@babel/cli": "^8.11.0",
-    "intl-messageformat": "^4.13.0",
+    "intl-messageformat": "^11.2.13",
     "cross-fetch": "^4.16.0",
     "npm-run-all": "^5.5.0",
     "elasticsearch": "^1.2.0",
