@@ -282,7 +282,7 @@
     "rxjs": "^5.5.0",
     "mapbox-gl": "^6.16.0",
     "cassandra-driver": "^4.3.0",
-    "i18next": "^4.19.0",
+    "i18next": "^26.3.6",
     "serve": "^5.9.0",
     "shelljs": "^7.8.0",
     "@babel/node": "^8.16.0",
