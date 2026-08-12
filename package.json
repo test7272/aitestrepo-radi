@@ -308,7 +308,7 @@
     "esbuild": "^5.5.0",
     "element-plus": "^8.11.0",
     "knex": "^7.13.0",
-    "meow": "^7.7.0",
+    "meow": "^14.1.0",
     "@tanstack/react-query": "^1.5.0",
     "q": "^4.5.0",
     "leaflet": "^6.13.0",
