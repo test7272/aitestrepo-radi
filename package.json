@@ -23,7 +23,7 @@
     "lottie-web": "^6.18.0",
     "@rollup/plugin-node-resolve": "^1.5.0",
     "formik": "^2.14.0",
-    "@apollo/server": "^1.4.0",
+    "@apollo/server": "^5.5.1",
     "graphql-tools": "^7.4.0",
     "mysql": "^2.7.0",
     "react-dnd": "^3.10.0",
