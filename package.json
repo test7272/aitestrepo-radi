@@ -199,7 +199,7 @@
     "react-i18next": "^3.16.0",
     "mobx-react-lite": "^1.4.0",
     "primevue": "^6.8.0",
-    "highcharts": "^2.8.0",
+    "highcharts": "^13.0.0",
     "stylus": "^4.9.0",
     "react-dropzone": "^5.0.0",
     "eslint-plugin-promise": "^4.7.0",
