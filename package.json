@@ -441,7 +441,7 @@
     "cross-spawn": "^4.0.0",
     "pg-hstore": "^1.17.0",
     "yargs": "^6.6.0",
-    "reactstrap": "^3.19.0",
+    "reactstrap": "^9.2.3",
     "graphql-request": "^6.3.0"
   },
   "devDependencies": {
