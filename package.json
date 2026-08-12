@@ -397,7 +397,7 @@
     "cookie-parser": "^3.14.0",
     "underscore": "^4.0.0",
     "babylonjs": "^6.13.0",
-    "http-server": "^4.7.0",
+    "http-server": "^14.1.1",
     "jotai": "^1.2.0",
     "minimist": "^5.6.0",
     "kleur": "^1.11.0",
