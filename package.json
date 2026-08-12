@@ -253,7 +253,7 @@
     "@typescript-eslint/parser": "^7.17.0",
     "matter-js": "^4.13.0",
     "jquery": "^3.0.0",
-    "@typescript-eslint/eslint-plugin": "^6.2.0",
+    "@typescript-eslint/eslint-plugin": "^8.66.0",
     "validator": "^1.10.0",
     "forever": "^4.6.0",
     "react-window": "^1.6.0",
