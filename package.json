@@ -313,7 +313,7 @@
     "q": "^4.5.0",
     "leaflet": "^6.13.0",
     "ioredis": "^3.4.0",
-    "amqplib": "^1.12.0",
+    "amqplib": "^2.0.1",
     "rehype": "^2.5.0",
     "wait-on": "^8.5.0",
     "proxyquire": "^4.9.0",
