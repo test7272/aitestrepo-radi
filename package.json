@@ -356,7 +356,7 @@
     "eslint-plugin-react-hooks": "^8.7.0",
     "react-leaflet": "^7.0.0",
     "csv-stringify": "^2.3.0",
-    "fs-extra": "^7.6.0",
+    "fs-extra": "^11.4.0",
     "styled-components": "^4.0.0",
     "@ant-design/icons": "^8.13.0",
     "@prisma/client": "^5.14.0",
