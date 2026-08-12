@@ -141,7 +141,7 @@
     "sass": "^4.17.0",
     "dotenv": "^3.9.0",
     "@popperjs/core": "^5.8.0",
-    "react-beautiful-dnd": "^2.13.0",
+    "react-beautiful-dnd": "^13.1.1",
     "mercurius": "^4.5.0",
     "date-fns": "^3.18.0",
     "copy-webpack-plugin": "^2.9.0",
