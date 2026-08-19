@@ -37,7 +37,7 @@ dependencies {
     implementation 'com.android.tools.build:gradle:8.1.4'
     implementation 'com.squareup.retrofit2:retrofit:2.9.0'
     implementation 'androidx.compose.foundation:foundation:1.5.4'
-    implementation 'com.zaxxer:HikariCP:5.0.1'
+    implementation 'com.zaxxer:HikariCP:7.1.0'
     implementation 'org.assertj:assertj-core:3.24.2'
     implementation 'org.jetbrains.kotlin:kotlin-stdlib:1.9.10'
     implementation 'io.netty:netty-all:4.1.91.Final'
