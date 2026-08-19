@@ -18,7 +18,7 @@ dependencies {
     implementation 'org.mongodb:mongodb-driver-sync:4.9.0'
     implementation 'com.squareup.sqldelight:android-driver:1.5.5'
     implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.7.0'
-    implementation 'com.google.guava:guava:31.1-jre'
+    implementation 'com.google.guava:guava:33.6.0-jre'
     implementation 'org.junit.jupiter:junit-jupiter:5.9.2'
     implementation 'org.mockito:mockito-core:5.23.0'
     implementation 'com.squareup.sqldelight:runtime:1.5.5'
